@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\bin\Debug\Negocio.dll
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\bin\Debug\Datos.dll
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\bin\Debug\Datos.pdb
+C:\Users\Usuario\source\repos\Capa_Presentacion\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
